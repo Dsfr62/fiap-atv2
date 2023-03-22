@@ -2,6 +2,7 @@
 # Nome: Eduardo Kentho  - RM551971
 # Nome: Kayke Andrade   - RM550738
 # Nome: Eduardo Sávio   - RM97833
+# Nome: Gabriel Oliveira de Mattos - RM551565
 
 tempo_anos = float(input("Há quanto tempo você fuma? (anos)....: "))
 
