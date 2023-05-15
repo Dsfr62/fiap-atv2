@@ -1,8 +1,3 @@
-# Nome: Bruno Lago      - RM86810
-# Nome: Eduardo Kentho  - RM551971
-# Nome: Kayke Andrade   - RM550738
-# Nome: Eduardo Sávio   - RM97833
-
 def main(tempo_anos=0, valor_maco=0, quantidade_dia=0):
   if tempo_anos == 0:
     tempo_anos=float(input("\nHá quanto tempo você fuma? (anos)....: "))
