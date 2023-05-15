@@ -1,9 +1,3 @@
-# Nome: Bruno Lago      - RM86810
-# Nome: Eduardo Kentho  - RM551971
-# Nome: Kayke Andrade   - RM550738
-# Nome: Eduardo Sávio   - RM97833
-# Nome: Gabriel Oliveira de Mattos - RM551565
-
 tempo_anos = float(input("Há quanto tempo você fuma? (anos)....: "))
 
 valor_maco = float(input("Qual o valor atual de um maço de cigarro?....: "))
